@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Rclone Connection</title>
+</head>
+<body>
+    <h1>Personal Rclone Connection</h1>
+    <p>A personal application for accessing and managing my Google Drive files using Rclone.</p>
+
+    <h2 id="privacy">Privacy Policy</h2>
+    <p>This application accesses Google Drive files for personal file management, synchronization and storage mounting.</p>
+    <p>Authorization credentials are stored locally. Google user data is not sold or used for advertising.</p>
+    <p>Access can be revoked at any time through Google Account settings.</p>
+
+    <h2 id="terms">Terms of Service</h2>
+    <p>This application is intended for personal use by authorized account owners.</p>
+    <p>Use is subject to Google's applicable terms.</p>
+
+    <a href="#privacy">Privacy Policy</a> |
+    <a href="#terms">Terms of Service</a>
+</body>
+</html>
